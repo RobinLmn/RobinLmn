@@ -1,16 +1,21 @@
-### Hi there 👋
+## Welcome to my profile 👋
 
-<!--
-**RobinLmn/RobinLmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### My basic info:
 
-Here are some ideas to get you started:
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: robin.leman@mail.mcgill.ca
+- 📓 Website and resume: https://robinlmn.github.io/
+- 🏫 School and major: McGill Physics and Computer Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am graduating in May 2022, and am open to new graduate roles in Software Engineering.
+
+#### My main projects:
+
+- 🏹 Achilles, a 3D Physics Engine made in C++: [Demo](https://robinlmn.github.io/achilles.html), [Source Code](https://github.com/Scarlet-Engine-Team-GameDev-McGill/Scarlet-Engine/tree/main/ScarletEngine/Sources/AchillesPhysics)
+- 🎮 GetOut, a 3D video game made in Unity for the Ubisoft Game Lab competition: https://github.com/filrod/UbisoftGameLabMcGill_2
+- 🐸 Meme Popularity Predictor, a Machine Learning model (CNN) in python: https://github.com/RobinLmn/ML-MemePopularity
+- 🧊 Mars Survival, a 3D voxel video game made in Unity: https://github.com/RobinLmn/MC-Mars-Survival
+
+#### I am currently working on:
+
+- ☀️ A multithreaded raytracer made in C++: https://github.com/RobinLmn/Multithreaded-Raytracer
