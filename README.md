@@ -7,11 +7,9 @@
 - 📓 Website and resume: https://robinlmn.github.io/
 - 🏫 School and major: McGill Physics and Computer Science
 
-I am graduating in May 2022, and am open to new graduate roles in Software Engineering.
+#### My last project:
 
-#### I am currently working on:
-
-- 🎲 A game engine in C++: https://github.com/RobinLmn/TradescantiaEngine
+- 🌌 A tool to visualize debris disk in C++: https://github.com/RobinLmn/DebrisDiskSimulation
 
 
 #### My main projects:
@@ -21,4 +19,3 @@ I am graduating in May 2022, and am open to new graduate roles in Software Engin
 - 🎮 GetOut, a 3D video game made in Unity for the Ubisoft Game Lab competition: https://github.com/filrod/UbisoftGameLabMcGill_2
 - 🐸 Meme Popularity Predictor, a Machine Learning model (CNN) in python: https://github.com/RobinLmn/ML-MemePopularity
 - 🧊 Mars Survival, a 3D voxel video game made in Unity: https://github.com/RobinLmn/MC-Mars-Survival
-
