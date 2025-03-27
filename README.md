@@ -1,18 +1,19 @@
 ## Welcome to my profile 👋
 
+I am a Software engineer at Electronic Arts (EA) specializing in the design and architecture of data-driven engine and gameplay systems. I am always open for a chat, so don't hesitate to reach out!
+
 #### My basic info:
 
-- 😄 Pronouns: He/Him
-- 📫 How to reach me: robin.leman@mail.mcgill.ca
+- 💼 Software Engineer at Electronic Arts
+- 📫 How to reach me: contact@robinleman.com
 - 📓 Website and resume: https://robinlmn.github.io/
 - 🏫 School and major: McGill Physics and Computer Science
 
-#### My last project:
+#### My biggest project:
 
 - 🌌 A tool to visualize debris disk in C++: https://github.com/RobinLmn/DebrisDiskSimulation
 
-
-#### My main projects:
+#### Some past university projects:
 
 - 🏹 Achilles, a 3D Physics Engine made in C++: [Demo](https://robinlmn.github.io/achilles.html), [Source Code](https://github.com/Scarlet-Engine-Team-GameDev-McGill/Scarlet-Engine/tree/main/ScarletEngine/Sources/AchillesPhysics)
 - ☀️ A multithreaded raytracer made in C++: https://github.com/RobinLmn/Multithreaded-Raytracer
