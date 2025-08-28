@@ -1,12 +1,13 @@
 # Welcome to my profile!
 
-I am a Software Engineer at Electronic Arts (EA) specializing in the design and architecture of data-driven engine and gameplay systems. I am always open for a chat, so don't hesitate to reach out!
+Studying an MSc in Computational Statistics and Machine Learning at UCL. I am open to research opportunities in Machine Learning, Robotics, and Spatial Intelligence to support my thesis work in Summer 2026. Don't hesitate to reach out!
 
 #### My Basic Info:
 
-- 💼 Software Engineer at Electronic Arts
-- 📫 How to reach me: contact@robinleman.com
+- 🏫 MSc in Computational Statistics and Machine Learning at UCL, BSc in Physics and Computer Science at McGill
+- 💼 3 years of work experience as a Software Engineer at Electronic Arts, Relic, Microsoft and Ubisoft
 - 📓 Website and resume: https://robinleman.com
+- 📫 How to reach me: contact@robinleman.com
 
 #### My Projects:
 
