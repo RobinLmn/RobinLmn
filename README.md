@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-Studying an MSc in Computational Statistics and Machine Learning at UCL. I am open to research opportunities in Machine Learning` to support my thesis work in Summer 2026. Don't hesitate to reach out!
+Studying an MSc in Computational Statistics and Machine Learning at UCL. I am open to research opportunities in Machine Learning to support my thesis work in Summer 2026. Don't hesitate to reach out!
 
 #### My Basic Info:
 
