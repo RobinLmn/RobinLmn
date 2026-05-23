@@ -4,18 +4,9 @@ Studying an MSc in Computational Statistics and Machine Learning at UCL. I am op
 
 #### My Basic Info:
 
-- 🏫 MSc in Computational Statistics and Machine Learning at UCL, BSc in Physics and Computer Science at McGill
-- 💼 3 years of work experience as a Software Engineer at Electronic Arts, Relic, Microsoft and Ubisoft
-- 📓 Website and resume: https://robinleman.com
-- 📫 How to reach me: contact@robinleman.com
-
-#### My Projects:
-
-- **🍌 [Pico-Banana](https://github.com/RobinLmn/pico-banana):** A lightweight implementation of a diffusion model in PyTorch.
-- **🧠 [Tiny-LLM](https://github.com/RobinLmn/tiny-llm):** A lightweight transformer-based language model implementation in PyTorch.
-- **🦿[Cart-Pole Reinforcement Learning Agent](https://github.com/RobinLmn/cart-pole-rl):** A RL agent built from scratch in C++, trained on the cart-pole environment.
-- **🚀 [CUDA-Accelerated Raytracer](https://github.com/RobinLmn/cuda-raytracer):** A GPU-accelerated raytracer built with CUDA and OpenGL.
-- **🪐 [Debris Disk Renderer](https://github.com/RobinLmn/debris-disk-renderer):** A 3D render engine to visualize and simulate debris disks around solar systems.
+- MSc in Computational Statistics and Machine Learning at UCL, BSc in Physics and Computer Science at McGill
+- 3 years of work experience as a Software Engineer at Electronic Arts, Relic, Microsoft and Ubisoft
+- Website and resume: https://robinleman.com
 
 ---
 
