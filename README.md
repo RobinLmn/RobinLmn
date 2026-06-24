@@ -1,5 +1,3 @@
-# Welcome to my profile!
-
 Studying an MSc in Computational Statistics and Machine Learning at UCL. I am open to research opportunities in Machine Learning, don't hesitate to reach out!
 
 #### My Basic Info:
